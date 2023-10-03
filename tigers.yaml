@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: main
+=======
+manager: comflict2
+>>>>>>> 403deec (comflict2 comflict)
 
 members:
 - aaa
